@@ -22,11 +22,8 @@ A sentiment analysis notebook to classify Kindle reviews into positive/negative 
 Open: `Kindle-Review-Sentiment-Analyis.ipynb`
 
 ## Results (add your metrics)
-- Accuracy: __
-- F1-score: __
-- Confusion matrix: (add screenshot to `assets/`)
+- Accuracy: 0.75
+- F1-score: 0.73
 
-## How to run
-```bash
-pip install -r requirements.txt
-jupyter notebook
+
+
