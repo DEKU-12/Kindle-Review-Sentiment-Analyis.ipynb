@@ -1,7 +1,6 @@
 
 ---
 
-# 2) Kindle-Review-Sentiment-Analyis.ipynb — `README.md`
 
 ```md
 # Kindle Review Sentiment Analysis
