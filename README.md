@@ -16,7 +16,7 @@ A sentiment analysis notebook to classify Kindle reviews into positive/negative 
 ## Tech stack
 - Python, Pandas, NumPy
 - scikit-learn
-- NLP: (TF-IDF / NLTK / spaCy) (fill what you used)
+- NLP: (TF-IDF / NLTK / spaCy) 
 
 ## Notebook
 Open: `Kindle-Review-Sentiment-Analyis.ipynb`
